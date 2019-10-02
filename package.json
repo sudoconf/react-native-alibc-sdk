@@ -1,0 +1,52 @@
+{
+  "_from": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+  "_id": "react-native-alibc-sdk@1.0.4",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-alibc-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/zzz945/react-native-alibc-sdk.git",
+    "rawSpec": "https://github.com/zzz945/react-native-alibc-sdk.git",
+    "saveSpec": "git+https://github.com/zzz945/react-native-alibc-sdk.git",
+    "fetchSpec": "https://github.com/zzz945/react-native-alibc-sdk.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/zzz945/react-native-alibc-sdk.git#db5a0dc1eb2546ebb20bfb4005f4810ab3e0e93b",
+  "_spec": "https://github.com/zzz945/react-native-alibc-sdk.git",
+  "_where": "/Users/stevejobs/Documents/Code/leftEar",
+  "author": {
+    "name": "张岱岩",
+    "url": "Daiyan Zhang"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
+  "deprecated": false,
+  "description": "React Native的阿里百川sdk， 包含淘宝授权登录等",
+  "keywords": [
+    "react-native",
+    "alibc",
+    "sdk",
+    "alibaba",
+    "taobao",
+    "baichuan",
+    "login"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-alibc-sdk",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
